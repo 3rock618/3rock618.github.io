@@ -2,8 +2,6 @@
 # This file contains configuration flags to customize your site
 #
 
-theme: jekyll-theme-hacker
-
 # Name of your site (displayed in the header)
 name: Erik Bass
 
@@ -78,6 +76,8 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+theme: jekyll-theme-hacker
 
 # Exclude these files from your production _site
 exclude:
