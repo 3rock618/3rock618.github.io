@@ -2,8 +2,6 @@
 # This file contains configuration flags to customize your site
 #
 
-theme: hacker
-
 # Name of your site (displayed in the header)
 name: Erik Bass
 
@@ -16,6 +14,8 @@ avatar: https://actionromanceintrigue.com/wp-content/uploads/images/thomas-dolby
 #
 # Flags below are optional
 #
+
+theme: 'hacker'
 
 # Includes an icon in the footer for each username you enter
 footer-links:
