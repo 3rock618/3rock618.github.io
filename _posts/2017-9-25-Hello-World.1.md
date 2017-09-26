@@ -39,4 +39,4 @@ We knew that we were supposed to use MTA data, but what other data sets could we
 
 I got a list of the largest tech employers from [Crains](http://www.crainsnewyork.com/article/99999999/DATA/500034828/technology-employers) and [TechCrunch](https://techcrunch.com/2017/05/21/examining-the-nyc-footprints-of-global-tech-titans/). From there I used Google Maps' API Geocode function to get locations (latitude,longitude), to used to compare to train station locations.
 
-<img src="https://github.com/3rock618/Project1_Benson-5/blob/master/WTWY%20Gala_FINAL.pdf" alt="Drawing" style="width: 200px;"/>
+![Drawing](https://github.com/3rock618/Project1_Benson-5/blob/master/WTWY%20Gala_FINAL.pdf")
